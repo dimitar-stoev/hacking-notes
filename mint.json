@@ -46,9 +46,15 @@
   ],
   "navigation": [
     {
-      "group": "Първи стъпки",
+      "group": "General",
       "pages": [
         "introduction"
+      ]
+    },
+    {
+      "group": "General",
+      "pages": [
+        "security-plus/introduction"
       ]
     }
   ],
