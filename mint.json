@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Software Engineering",
+  "name": "Ethical Hacking",
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
@@ -19,7 +19,7 @@
   ],
   "topbarCtaButton": {
     "name": "View in Github",
-    "url": "https://github.com/dimitar-stoev/software-engineering"
+    "url": "https://github.com/dimitar-stoev/hacking-notes"
   },
   "tabs": [
     {
