@@ -23,8 +23,8 @@
   },
   "tabs": [
     {
-      "name": "Линейна алгебра",
-      "url": "linear-algebra"
+      "name": "Security+",
+      "url": "security-plus"
     }
   ],
   "anchors": [
@@ -49,12 +49,6 @@
       "group": "Първи стъпки",
       "pages": [
         "introduction"
-      ]
-    },
-    {
-      "group": "Първи стъпки",
-      "pages": [
-        "linear-algebra/introduction"
       ]
     }
   ],
